@@ -1,0 +1,7 @@
+D:\Github\ManualResetEventExample\ManualResetEventExample\obj\Debug\ManualResetEventExample.csprojAssemblyReference.cache
+D:\Github\ManualResetEventExample\ManualResetEventExample\obj\Debug\ManualResetEventExample.csproj.CoreCompileInputs.cache
+D:\Github\ManualResetEventExample\ManualResetEventExample\bin\Debug\ManualResetEventExample.exe.config
+D:\Github\ManualResetEventExample\ManualResetEventExample\bin\Debug\ManualResetEventExample.exe
+D:\Github\ManualResetEventExample\ManualResetEventExample\bin\Debug\ManualResetEventExample.pdb
+D:\Github\ManualResetEventExample\ManualResetEventExample\obj\Debug\ManualResetEventExample.exe
+D:\Github\ManualResetEventExample\ManualResetEventExample\obj\Debug\ManualResetEventExample.pdb
